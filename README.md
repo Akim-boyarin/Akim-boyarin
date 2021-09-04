@@ -1,4 +1,4 @@
 ### Hello, my name's Akim Boyarinov
 
-and I begin my way in Fron-end development.
+and I begin my way in Front-end development.
 
