@@ -1,4 +1,4 @@
-### Hi I'm Akim Boyarinov
+### Hi! I'm Akim Boyarinov
 
 Junior Front-end developer.    
 
