@@ -1,7 +1,7 @@
-### Hi! I'm Akim Boyarinov
+### Akim Boyarinov
 Junior Front-end developer.    
 
-In my opinion, Front-end development is a good opportunity to grow as a person. 
+In my opinion, Front-end development is a good opportunity to grow as a person. Let's write something.
 
 #### My contacts:
 * e-mail: akim.boyarinov@gmail.com
