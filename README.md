@@ -1,7 +1,6 @@
 ### Akim Boyarinov
-Junior Front-end developer.    
-
-In my opinion, Front-end development is a good opportunity to grow as a person. Let's write something.
+Hello, I'm a Front-end developer.
+There's something like a miracle to create an application by code.
 
 #### My contacts:
 * e-mail: akim.boyarinov@gmail.com
